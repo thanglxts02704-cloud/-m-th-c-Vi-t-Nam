@@ -84,7 +84,7 @@ thead {
   padding: 15px;
 }
 
-.footer:hover{
+.footer :hover{
   font-size: large;
   display: center;
   background-color: #333;
@@ -234,6 +234,7 @@ map {
   transform: translateY(-6px);
 
 }
+
 
 
 
