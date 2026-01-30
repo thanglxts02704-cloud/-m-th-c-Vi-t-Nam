@@ -84,14 +84,14 @@ thead {
   padding: 15px;
 }
 
-/*.footer :hover{
+.site-footer :hover{
   font-size: large;
   display: center;
   background-color: #333;
   color: #ffffff;
   transform: translateY(-8px);
 
-}*/
+}
 
 .container{
    width: 80%;
@@ -234,3 +234,4 @@ map {
   transform: translateY(-6px);
 
 }
+
