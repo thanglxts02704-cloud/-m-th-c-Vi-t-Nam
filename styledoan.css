@@ -1,0 +1,10 @@
+.container a{
+    font-size: large;
+    text-decoration: none;
+    color: black;
+}
+
+.container a:hover{
+    color: rgb(85, 180, 248);
+    text-decoration: underline;
+}
